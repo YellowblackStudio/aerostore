@@ -3,7 +3,7 @@
     <package>
         <name>Termux</name>
         <version>0.118.3</version>
-        <apk>archive/termux.apk</apk>
+        <apk>https://github.com/YellowblackStudio/aerostore/releases/download/app1/termux.apk</apk>
         <description>No description</description>
         <license>Proprietary</license>
         <category>App</category>

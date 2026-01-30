@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+    <package>
+        <name>Termux</name>
+        <version>0.118.3</version>
+        <apk>archive/termux.apk</apk>
+        <description>No description</description>
+        <license>Proprietary</license>
+        <category>App</category>
+    </package>
+</fdroid>
